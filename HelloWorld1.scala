@@ -5,10 +5,10 @@ package com.egridcloud.spark
   */
 object HelloWorld {
   def main(args: Array[String]): Unit = {
-    println("hello")
-    val str="20171_aa"
-    val str2="201712_aa"
-    println(str.startsWith("201712_"))
-    println(str2.startsWith("201712_"))
+    println("hello world!")
+    //val str="20171_aa"
+    //val str2="201712_aa"
+    //println(str.startsWith("201712_"))
+    //println(str2.startsWith("201712_"))
   }
 }
